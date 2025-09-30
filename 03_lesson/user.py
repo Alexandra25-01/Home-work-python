@@ -11,4 +11,3 @@ class User:
 
     def get_first_last_name(self):
         print(self.f_name, self.l_name)
-
