@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Allure результаты
+allure-results/
+final-report/
+allure-history/
